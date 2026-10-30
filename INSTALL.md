@@ -335,6 +335,7 @@ Follow the instructions in .asdm/toolsets/story-forge/actions/write-story.md
 5. **`chapters-outline-spec.md`** - 分章大纲的模板——卷/章/场景三级结构、每章四要素与伏笔登记表
 6. **`story-chapter-spec.md`** - 章节正文的模板——场景推进写作准则与 `chapter-<NN>.md` 命名约定
 7. **`story-state-spec.md`** - 故事状态记忆的模板——人物位置、信息差、时间线与伏笔状态对账机制
+8. **`hit-formula-spec.md`** - 爆款内核规范——短剧向模式下的情绪代偿定位、封闭小世界、身份错位引擎、黄金公式与章级/正文节拍约束（经概念卡「商业模式：短剧向」开关启用）
 
 ## Verification
 
