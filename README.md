@@ -111,8 +111,26 @@ The Story Forge 故事锻造工具集 toolset has the following structure:
         │   ├── plan-chapters.md
         │   └── write-story.md
         └── spec/
-            └── <spec-name>.md
+            ├── concept-card-spec.md
+            ├── worldbuilding-spec.md
+            ├── character-bible-spec.md
+            ├── plotline-spec.md
+            ├── chapters-outline-spec.md
+            ├── story-chapter-spec.md
+            └── story-state-spec.md
 ```
+
+### Spec Documents
+
+The toolset uses the following spec documents as templates:
+
+- **concept-card-spec.md**: 故事概念卡的模板——九字段（类型/冲突/主题/卖点/Logline 等）口径、Logline 三要素与验收清单
+- **worldbuilding-spec.md**: 世界观圣经的模板——七大模块（时代/规则/历史/地理/社会/势力/特殊体系）、世界规则硬约束与代价限制写法、修订记录结构
+- **character-bible-spec.md**: 人物圣经的模板——欲望-恐惧-缺陷三角、人物弧光、人物关系（含内在张力）与功能性角色从简原则
+- **plotline-spec.md**: 故事蓝图的模板——双层冲突交织、主线支线、结构模型、情节节点（可追溯人物动机）、结局与悬念回收标注
+- **chapters-outline-spec.md**: 分章大纲的模板——卷/章/场景三级结构、每章强制四要素（目标/冲突/转折/钩子）、伏笔登记表与节奏检查
+- **story-chapter-spec.md**: 章节正文的模板——场景推进写作准则、人物声音与文风一致性、四要素兑现自检、`chapter-<NN>.md` 命名约定
+- **story-state-spec.md**: 故事状态记忆的模板——人物位置、信息差（谁知道什么）、时间线、伏笔状态与 `chapters.md` 对账机制
 
 ## Toolset Workspace
 
