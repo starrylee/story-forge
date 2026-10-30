@@ -1,0 +1,16 @@
+{
+  "guid": "c3d4e5f6-a7b8-4c9d-8e0f-1a2b3c4d5e6f",
+  "registry_id": "story-forge",
+  "name": "Story Forge 故事锻造工具集",
+  "description": "从一句话的设定出发，沿「设定解析 → 世界观/人物/主线 → 分章情节 → 完整故事文本」的流水线逐级生成完整故事。",
+  "version": "0.0.1",
+  "configType": "toolset",
+  "commands": [
+    "expand-premise",
+    "build-world",
+    "design-characters",
+    "design-plotline",
+    "plan-chapters",
+    "write-story"
+  ]
+}
